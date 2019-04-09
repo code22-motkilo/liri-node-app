@@ -3,12 +3,12 @@
 require("dotenv").config();
 
 // required to import the spotify api keys
-// var keys = require("./keys.js");
+var keys = require("./keys.js");
 
-// var spotify = new Spotify(keys.spotify);
+var spotify = new Spotify(keys.spotify);
 
 //load the fs package to read/write
-// var fs = require("fs");
+var fs = require("fs");
 
 // var for liri command
 var action = process.argv[2];
@@ -67,6 +67,7 @@ function concertThis() {
 function spotifyThis() {
   console.log("Spotify function is still being built...");
 
+  
 }
 
 function movieThis() {
