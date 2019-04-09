@@ -26,7 +26,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
       **Example:** This example uses the 'movie-this' function to search for the movie _The Matrix_.
 
-      ![movie-this example](images/movie-this_example.png)le: This example uses the 'con
+      ![movie-this example](images/movie-this_example.png)
 
 
 
