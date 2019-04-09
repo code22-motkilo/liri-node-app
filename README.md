@@ -14,6 +14,10 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
   * For the concert info on a band: `node liri.js concert-this '<artist/band name here>'`
 
+  Example: This example uses the 'concert-this' function to search for the artist _Beck_.
+
+![concert-this example](images/concert-this_example.png)
+
   * For information about a specific song: `node liri.js spotify-this-song '<song name here>'`
 
   * for information about a specific movie: `node liri.js movie-this '<movie name here>'`
