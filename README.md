@@ -12,21 +12,21 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 2. Inside the root folder of LIRI type one of the following commands:
 
-  * For the concert info on a band: `node liri.js concert-this '<artist/band name here>'`
+    * For the concert info on a band: `node liri.js concert-this '<artist/band name here>'`
 
-    Example: This example uses the 'concert-this' function to search for the artist _Beck_.
+      **Example:** concert-this' function to search for the artist _Beck_.
 
-    ![concert-this example](images/concert-this_example.png)
+      ![concert-this example](images/concert-this_example.png)
 
-  * For information about a specific song: `node liri.js spotify-this-song '<song name here>'`
+    * For information about a specific song: `node liri.js spotify-this-song '<song name here>'`
 
-  note: spotify-this-song is still under construction
+      **note: spotify-this-song is still under construction**
 
-  * for information about a specific movie: `node liri.js movie-this '<movie name here>'`
+    * for information about a specific movie: `node liri.js movie-this '<movie name here>'`
 
-    Example: This example uses the 'movie-this' function to search for the movie _The Matrix_.
+      **Example:** This example uses the 'movie-this' function to search for the movie _The Matrix_.
 
-    ![movie-this example](images/movie-this_example.png)
+      ![movie-this example](images/movie-this_example.png)le: This example uses the 'con
 
 
 
